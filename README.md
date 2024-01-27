@@ -1,6 +1,8 @@
 # 1999 HTML
 
 Party like it's 1999.
+Forked from [https://github.com/patschreiber/1999_html](https://github.com/patschreiber/1999_html)
+
 
 ## HTML 2.0 spec
 

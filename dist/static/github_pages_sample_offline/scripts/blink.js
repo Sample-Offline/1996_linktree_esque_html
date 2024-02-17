@@ -8,11 +8,11 @@
 // Wait you can use a "+"?
 +function () {
   const blinkers = document.getElementsByTagName('blink');
-  var toggle = true;
+  const toggle = true;
 
   // Original implementation had the blinking element visible for 750 ms. and
   // invisible for 250 ms.
-  var interval = toggle === true ? 750 : 250;
+  const interval = toggle === true ? 750 : 250;
 
   // Blink away, king.
   setInterval(function () {

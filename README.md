@@ -11,4 +11,7 @@ GH Pages @ [http://sample-offline.github.io/1996_linktree_esque_html/](http://sa
 
 ## TODO
 
-- convert HTML tags to UPPERCASE (like 2.0 spec)
+- [ ] Get Chat Gem working
+- [ ] DNS to sampleoffline.com would be chill
+- [ ] Format guestbook
+- [ ] Format something-random

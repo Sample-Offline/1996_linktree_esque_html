@@ -45,3 +45,23 @@ a.artist-link.youtube {
 .artist-links > h1 {
   font-family: sans-serif;
 }
+
+body .body-text-image {
+  /** Add some space between body copy images and the text. */
+  padding: 0 25px 0 25px;
+}
+
+body .body-text-image-left {
+  float: left;
+}
+
+body .body-text-image-right {
+  float: right;
+}
+
+/**
+ * White guy shrugging emoji
+ */
+span.emoji-shrug::before {
+  content: "\01F937";
+}

@@ -15,3 +15,4 @@ GH Pages @ [http://sample-offline.github.io/1996_linktree_esque_html/](http://sa
 - [ ] DNS to sampleoffline.com would be chill
 - [ ] Format guestbook
 - [ ] Format something-random
+- [ ] Template engine (ejs?) for my own sanity when developing

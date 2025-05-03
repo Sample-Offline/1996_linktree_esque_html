@@ -27,3 +27,7 @@ GH Pages @ [http://sample-offline.github.io/1996_linktree_esque_html/](http://sa
 - [ ] Format guestbook
 - [ ] Format something-random
 - [ ] Template engine (ejs?) for my own sanity when developing
+- [ ] Add Dark Theme
+- [x] Add logos for known music services
+  - [ ] Change logos with the theme changing from light to dark
+- [ ] It's a bg image OVER another bg image as the background, so when you scroll past the bottom it looks like you're "peeling it (the site) up"

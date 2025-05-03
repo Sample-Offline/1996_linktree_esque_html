@@ -20,6 +20,13 @@ a:hover {
   color: cornflowerblue; /* Can we go with the uhh... */
 }
 
+/**
+ * Mimics a default H2 element.
+ */
+a.artist-link {
+  font-size: 2.25em;
+  font-weight: 700;
+}
 a.artist-link.applemusic {
   color: orangered;
 }
@@ -41,9 +48,23 @@ a.artist-link.spotify {
 a.artist-link.youtube {
   color: red;
 }
+/**
+ * Gives a cool red underline but white text for YouTube
+ */
+a.artist-link.youtube span {
+  color: white;
+}
 
-.artist-links > h1 {
-  font-family: sans-serif;
+/**
+ * Remove the bullets from the artist links
+ */
+.artist-links ul > li {
+  list-style: none;
+  margin: 1.5em 0;
+}
+.artist-links ul > li img {
+  padding-right: 0.25em;
+  vertical-align: bottom;
 }
 
 body .body-text-image {

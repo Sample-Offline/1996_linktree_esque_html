@@ -24,7 +24,7 @@ a:hover {
  * Mimics a default H2 element.
  */
 a.artist-link {
-  font-size: 2.25em;
+  font-size: 1.25em;
   font-weight: 700;
 }
 a.artist-link.applemusic {
